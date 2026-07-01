@@ -2,3 +2,5 @@
 Einfacher TTN V3 payload decoder für den Zenner Zelsius C5 LoRaWAN Wärmemengenzähler
 
 Basierend auf: https://forum.chirpstack.io/t/codec-decoder-for-zelsius-c5-iuf/24227/19
+
+Bisher wird nur die Packettypen 0.1 (Diagnose) und 5.1 (Wärmemenge täglich) ausgewertet.
