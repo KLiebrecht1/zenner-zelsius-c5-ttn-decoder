@@ -1,1 +1,11 @@
+Payload:
 51830F0000000000000000
+
+Ergebnis:
+{
+  "energy": {
+    "unit": "MWh",
+    "value": 3.971
+  },
+  "packettype": "5.1"
+}
