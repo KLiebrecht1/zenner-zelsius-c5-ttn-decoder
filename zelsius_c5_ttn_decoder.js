@@ -10,7 +10,7 @@ function fcvalue(bytes, length){
 }
 
 function decodeUplink(input) {
-	var data = {};
+  var data = {};
   var packet_type = input.bytes[0] >> 4;
   var packet_subtype = input.bytes[0] & 0x0F;
   var packet = packet_type + "." + packet_subtype;
